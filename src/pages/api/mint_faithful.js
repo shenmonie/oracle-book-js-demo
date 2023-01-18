@@ -1,6 +1,6 @@
 // Next.js API route support: https://nextjs.org/docs/api-routes/introduction
 
-// HARDCODE ADDRESS OF CONTRACTS & WALLETS FOR A DEMO
+// HARDCODE ADDRESS OF CONTRACTS & WALLETS FOR A DEMO ON VERCEL
 
 const Web3 = require("web3");
 const fs = require("fs");
