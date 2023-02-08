@@ -10,11 +10,16 @@
   },
   "dependencies": {
     "@next/font": "13.1.2",
+    "dotenv": "^16.0.3",
     "eslint": "8.32.0",
     "eslint-config-next": "13.1.2",
+    "hardhat": "^2.12.6",
     "next": "13.1.2",
-    "react": "18.2.0",
+    "react": "^18.2.0",
     "react-dom": "18.2.0",
     "web3": "^1.8.1"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1"
   }
 }
