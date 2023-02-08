@@ -29,6 +29,7 @@ export default async function handler(req, res) {
         })
       }
       var avatar = {
+        id: query["token"],
         owner: res_get["owner"],
         status: res_get["status"],
         avatarType: res_get["avatarType"],
